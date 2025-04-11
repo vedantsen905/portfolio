@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Typing Animation
     const typingAnimationElement = document.getElementById("typing-animation");
-    const typingTexts = [" Pythonist, ", " Developer, ", " Fast Learner."];
+    const typingTexts = [" Developer, ", " Fast Learner."];
     let currentTextIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
